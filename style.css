@@ -59,8 +59,19 @@ a:hover{
 	padding-top: 100px;
 	width: 100%;
 	position: relative;
+	margin-bottom: 0;
+	padding-bottom: 0;
+
+
 
 }
+marquee{
+	font-size: 45px;
+	color: #ffffff;
+}
+
+
+
 
 
 	
